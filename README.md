@@ -1,2 +1,4 @@
 # terrytastic
-Software engineering group
+Software engineering group project
+
+
